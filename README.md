@@ -26,7 +26,6 @@ Este projeto utiliza análise de dados e machine learning para prever surtos de 
 └── LICENSE                   # Arquivo de licença (MIT)
 
 
-# Análise de Dados de Saúde Mental: Predição de Doenças e Monitoramento de Saúde
 
 ## Dados
 
