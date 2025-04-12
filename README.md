@@ -1,13 +1,26 @@
 # Análise de Dados de Saúde para Predição de Doenças e Monitoramento de Saúde
 
-├── data/                    # Pasta para armazenar dados brutos e pré-processados
-├── notebools/               # Jupyter Notebooks para Análise exploratória e modelagem
-├── scripts/                 # Scripts Python para processar e treinar modelos
-|   ├── data_preprocessing.py
-|   ├── model_training.py
-├── reports/                 # Relátorios gerados a partir da análise
-├── README.md                # Documentação do projeto
-├── LICENSE                  # Arquivo de licença (MIT)
+An-lise-de-dados-de-sa-de-para-predi-o-de-doen-as-e-monitoramento-de-sa-de/
+│
+├── data/                     # Pasta para armazenar dados brutos e pré-processados
+│   ├── raw_data/             # Dados brutos
+│   └── processed_data/       # Dados já processados
+│
+├── notebooks/                # Notebooks Jupyter para análise exploratória e modelagem
+│   ├── exploratory_analysis.ipynb  # Análise exploratória dos dados
+│   ├── model_training.ipynb  # Treinamento do modelo de predição
+│
+├── scripts/                  # Scripts Python para processar e treinar modelos
+│   ├── data_preprocessing.py  # Pré-processamento de dados
+│   ├── model_training.py     # Treinamento de modelos
+│
+├── reports/                  # Relatórios gerados a partir da análise
+│   └── final_report.pdf      # Relatório final com insights e resultados
+│
+├── README.md                 # Documentação do projeto
+├── requirements.txt          # Dependências do projeto
+└── LICENSE                   # Arquivo de licença (MIT)
+
 
 # Análise de Dados de Saúde Mental: Predição de Doenças e Monitoramento de Saúde
 
