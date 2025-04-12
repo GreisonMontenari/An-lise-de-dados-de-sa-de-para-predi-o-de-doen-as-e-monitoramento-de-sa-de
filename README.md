@@ -1,4 +1,6 @@
 # Análise de Dados de Saúde para Predição de Doenças e Monitoramento de Saúde
+![Logo do Projeto](URL_DA_IMAGEM_AQUI)
+
 
 # Análise de Dados de Saúde Mental para Predição de Doenças e Monitoramento de Saúde 🌱🧠
 
