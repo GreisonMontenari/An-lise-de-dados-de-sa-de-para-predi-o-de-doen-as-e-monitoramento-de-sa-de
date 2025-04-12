@@ -26,6 +26,20 @@ An-lise-de-dados-de-sa-de-para-predi-o-de-doen-as-e-monitoramento-de-sa-de/
 
 Este projeto visa utilizar análise de dados e machine learning para prever surtos de ansiedade e depressão, além de monitorar o bem-estar emocional ao longo do tempo. A ideia é coletar dados de sintomas, como nível de ansiedade, depressão e fatores externos, para prever os níveis futuros e sugerir ações preventivas ou de tratamento.
 
+Dados Brutos de Saúde Mental
+O projeto usa dados sobre ansiedade e depressão para realizar análises preditivas. O arquivo CSV contém informações sobre o número de afastamentos devido a esses problemas de saúde.
+
+Estrutura dos Dados
+Arquivo: data-raw_data
+
+Descrição: O arquivo contém dados de ansiedade e depressão, com informações sobre afastamentos, incluindo:
+
+Data: Período dos dados.
+
+Número de casos: Quantidade de afastamentos por saúde mental.
+
+Você pode acessar o arquivo diretamente no repositório ou usar o script para carregar e analisar os dados.
+
 ## Estrutura do Repositório
 
 - **data/**: Contém os dados brutos e pré-processados.
