@@ -1,5 +1,4 @@
-# Análise de Dados de Saúde para Predição de Doenças e Monitoramento de Saúde
-![Logo do Projeto](URL_DA_IMAGEM_AQUI)
+# Análise de Dados de Saúde para Predição de Doenças e Monitoramento de Saúd
 
 
 # Análise de Dados de Saúde Mental para Predição de Doenças e Monitoramento de Saúde 🌱🧠
@@ -72,12 +71,18 @@ Este projeto depende das seguintes bibliotecas:
 - scikit-learn
 - seaborn
 - matplotlib
-## Como Contribuir
-1. Faça um fork do repositório.
+- 
+## 🤝 Como Contribuir
+1. Faça um fork deste repositório.
 2. Crie uma branch para sua feature (`git checkout -b feature/nova-feature`).
-3. Faça commit das suas alterações (`git commit -m 'Adicionando nova feature'`).
+3. Comite suas mudanças (`git commit -m 'Adicionando nova feature'`).
 4. Envie para o repositório remoto (`git push origin feature/nova-feature`).
-5. Abra um Pull Request.
+5. Abra um pull request.
+
+## 🚀 Vamos Juntos Melhorar a Saúde Mental!
+
+Estamos animados para ver como você pode ajudar a expandir este projeto. Contribua com suas ideias, compartilhe com outras pessoas e vamos trabalhar juntos para melhorar a vida de quem precisa de apoio!
+
 
 ## Licença
 Este projeto é licenciado sob a MIT License - veja o arquivo LICENSE para mais detalhes.
