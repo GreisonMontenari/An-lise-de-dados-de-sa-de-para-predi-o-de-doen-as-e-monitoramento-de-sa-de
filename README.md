@@ -24,21 +24,20 @@ An-lise-de-dados-de-sa-de-para-predi-o-de-doen-as-e-monitoramento-de-sa-de/
 
 # Análise de Dados de Saúde Mental: Predição de Doenças e Monitoramento de Saúde
 
-Este projeto visa utilizar análise de dados e machine learning para prever surtos de ansiedade e depressão, além de monitorar o bem-estar emocional ao longo do tempo. A ideia é coletar dados de sintomas, como nível de ansiedade, depressão e fatores externos, para prever os níveis futuros e sugerir ações preventivas ou de tratamento.
+## Dados
 
-Dados Brutos de Saúde Mental
-O projeto usa dados sobre ansiedade e depressão para realizar análises preditivas. O arquivo CSV contém informações sobre o número de afastamentos devido a esses problemas de saúde.
+O projeto utiliza um conjunto de dados sobre saúde mental, especificamente sobre distúrbios de ansiedade e depressão. O arquivo CSV está localizado na pasta `data/` e contém informações relacionadas a surtos de ansiedade e depressão no Brasil.
 
-Estrutura dos Dados
-Arquivo: data-raw_data
+O arquivo CSV contém as seguintes colunas:
+- **Data**: Data do registro dos casos
+- **Numero_Afastados**: Número de pessoas afastadas por questões de saúde mental
+- **Causa**: Causa do afastamento (ansiedade, depressão, etc.)
+- **Idade**: Idade média das pessoas afastadas
+- **Sexo**: Sexo das pessoas afastadas
+- **Localidade**: Localidade dos afastamentos (por estado ou cidade)
 
-Descrição: O arquivo contém dados de ansiedade e depressão, com informações sobre afastamentos, incluindo:
+O arquivo CSV pode ser encontrado [aqui](data/arquivo.csv).
 
-Data: Período dos dados.
-
-Número de casos: Quantidade de afastamentos por saúde mental.
-
-Você pode acessar o arquivo diretamente no repositório ou usar o script para carregar e analisar os dados.
 
 ## Estrutura do Repositório
 
