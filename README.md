@@ -38,6 +38,18 @@ O arquivo CSV contém as seguintes colunas:
 
 O arquivo CSV pode ser encontrado [aqui](data/arquivo.csv).
 
+# Análise de Dados de Saúde para Predição de Doenças e Monitoramento de Saúde
+
+Este projeto visa utilizar análise de dados e machine learning para prever surtos de **ansiedade** e **depressão**, além de monitorar o bem-estar emocional ao longo do tempo. A ideia é coletar dados de sintomas para prever os níveis futuros e sugerir ações preventivas ou de tratamento.
+
+## Como Rodar o Projeto Localmente
+
+1. Clone o repositório:
+
+   ```bash
+   git clone https://github.com/GreisonMontenari/An-lise-de-dados-de-sa-de-para-predi-o-de-doen-as-e-monitoramento-de-sa-de.git
+   cd An-lise-de-dados-de-sa-de-para-predi-o-de-doen-as-e-monitoramento-de-sa-de
+
 
 ## Estrutura do Repositório
 
