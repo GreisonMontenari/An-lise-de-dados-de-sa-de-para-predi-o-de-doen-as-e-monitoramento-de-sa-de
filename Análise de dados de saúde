@@ -1,0 +1,36 @@
+📂 health-data-analysis/
+├── data /            # Para armazenar os dados (brutos ou processados)
+├── notebooks/        # Para notebooks de análise
+├── scripts/          # Scripts de processamento e análise
+├── README.mmd        # Descrição do projeto
+├── requirements.txt  # Dependências do projeto
+
+# Health Data Analysis
+
+Este é um projeto open-source para análise de dados de saúde com o objetivo de prever doenças e monitorar indicadores de saúde em tempo real.
+
+## Objetivos
+- Análise exploratória de dados (EDA).
+- Aplicação de modelos de predição para doenças (ex.: diabetes, doenças cardíacas, etc).
+- Visualização de dados de saúde.
+
+## Estrutura do Projeto
+- `data/`: Dados brutos e pré-processados.
+- `notebooks/`: Notebooks Jupyter para análise e visualização.
+- `scripts/`: Scripts para pré-processamento e análise de dados.
+
+## Tecnologias Utilizadas
+- Python
+- Pandas
+- Matplotlib / Seaborn
+- Scikit-learn (para machine learning)
+
+## Como Contribuir
+1. Faça um fork deste repositório.
+2. Crie uma branch para sua feature: `git checkout -b feature/nome-da-feature`.
+3. Faça commit das suas alterações: `git commit -m 'Adicionando nova feature'`.
+4. Envie para o repositório remoto: `git push origin feature/nome-da-feature`.
+5. Abra um Pull Request.
+
+## Licença
+Este projeto está licenciado sob a MIT License - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
