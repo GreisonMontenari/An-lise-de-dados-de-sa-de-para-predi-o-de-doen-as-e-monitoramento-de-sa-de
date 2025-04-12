@@ -1,6 +1,9 @@
 # Análise de Dados de Saúde para Predição de Doenças e Monitoramento de Saúde
 
-An-lise-de-dados-de-sa-de-para-predi-o-de-doen-as-e-monitoramento-de-sa-de/
+# Análise de Dados de Saúde Mental para Predição de Doenças e Monitoramento de Saúde 🌱🧠
+
+Este projeto utiliza análise de dados e machine learning para prever surtos de **ansiedade** e **depressão**, além de monitorar o bem-estar emocional ao longo do tempo.
+
 │
 ├── data/                     # Pasta para armazenar dados brutos e pré-processados
 │   ├── raw_data/             # Dados brutos
